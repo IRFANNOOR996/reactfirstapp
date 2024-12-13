@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactfirstapp/static/css/main.3cc7fb52.css",
+    "main.js": "/reactfirstapp/static/js/main.83baf924.js",
+    "static/js/453.64fca6d5.chunk.js": "/reactfirstapp/static/js/453.64fca6d5.chunk.js",
+    "static/media/user.png": "/reactfirstapp/static/media/user.50093ceaef09f2c92cb5.png",
+    "static/media/resume.jpg": "/reactfirstapp/static/media/resume.80d381099235f8b10706.jpg",
+    "static/media/my-pic.jpg": "/reactfirstapp/static/media/my-pic.322b17b25254fa361d34.jpg",
+    "static/media/about.jpg": "/reactfirstapp/static/media/about.92762da5406aff76c72a.jpg",
+    "static/media/contact.jpg": "/reactfirstapp/static/media/contact.7c1fd4748f8786af671d.jpg",
+    "static/media/portfolio.jpg": "/reactfirstapp/static/media/portfolio.9a287c4491896470f6cc.jpg",
+    "static/media/portfolio-3.jpg": "/reactfirstapp/static/media/portfolio-3.a029e66bcd9962f5d2c5.jpg",
+    "static/media/portfolio-2.jpg": "/reactfirstapp/static/media/portfolio-2.65fbd438d4cc047107ab.jpg",
+    "static/media/portfolio-1.jpg": "/reactfirstapp/static/media/portfolio-1.7eb2793f5090d5ac12a5.jpg",
+    "index.html": "/reactfirstapp/index.html",
+    "main.3cc7fb52.css.map": "/reactfirstapp/static/css/main.3cc7fb52.css.map",
+    "main.83baf924.js.map": "/reactfirstapp/static/js/main.83baf924.js.map",
+    "453.64fca6d5.chunk.js.map": "/reactfirstapp/static/js/453.64fca6d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cc7fb52.css",
+    "static/js/main.83baf924.js"
+  ]
+}
