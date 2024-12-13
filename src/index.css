@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  overflow: hidden;
+}
+.uldiv{
+ transition: left ease-in-out 3s ;
+ border-top-right-radius: 20px;
+ border-bottom-right-radius: 20px;
+}
+.myDiv{
+  transform: skewX(-25deg);
+}
+.myDivR{
+  transform: none;
+}
+.ordClas{
+  letter-spacing: 2px;
+}
+.Zindex{
+  z-index: -1;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    overflow: auto;
+  }
+}
