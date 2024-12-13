@@ -8,6 +8,7 @@ import About from "./components/About"
 import Resume from './components/Resume';
 import Contactme from './components/Contactme';
 import Portfolio from './components/Portfolio';
+import Error404 from './components/common/Error404';
 let allRoutes=createBrowserRouter(
   [
   {
@@ -29,6 +30,10 @@ let allRoutes=createBrowserRouter(
   {
     path:"contactme",
     element:<Contactme/>
+  },
+  {
+    path:"*",
+    element:<Error404/>
   }
 ]
 )
