@@ -16,19 +16,19 @@ let allRoutes=createBrowserRouter(
     element:<Home/>
   },
   {
-    path:"about-us",
+    path:"/reactfirstapp/about-us",
     element:<About/>
   },
   {
-    path:"resume",
+    path:"/reactfirstapp/resume",
     element:<Resume/>
   },
   {
-    path:"portfolio",
+    path:"/reactfirstapp/portfolio",
     element:<Portfolio/>
   },
   {
-    path:"contactme",
+    path:"/reactfirstapp/contactme",
     element:<Contactme/>
   },
   {
