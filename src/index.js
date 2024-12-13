@@ -11,7 +11,7 @@ import Portfolio from './components/Portfolio';
 let allRoutes=createBrowserRouter(
   [
   {
-    path:"/",
+    path:"/reactfirstapp",
     element:<Home/>
   },
   {
