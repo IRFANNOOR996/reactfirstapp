@@ -15,10 +15,10 @@ export default function Header() {
       <div className='' >
       <ul className={`bg-[#ffc814] uldiv flex justify-center gap-3 lg:gap-8 text-1xl font-bold text-white py-5 px-2 lg:px-5 w-full lg:w-2/5 fixed top-20 lg:top-0 ${iconcahn ? "left-[-600px] ":"left-0" } z-50`}>
         <li className='hover:transform hover:scale-110   cursor-pointer ' > <Link to={"/reactfirstapp"}>Home </Link></li>
-        <li className='hover:transform hover:scale-110   cursor-pointer ' ><Link to={"/about-us"}>About </Link></li>
-        <li className='hover:transform hover:scale-110   cursor-pointer ' ><Link to={"/resume"}>Resume </Link></li>
-        <li className='hover:transform hover:scale-110   cursor-pointer ' ><Link to={"/portfolio"}>Portfolio </Link></li>
-        <li className='hover:transform hover:scale-110   cursor-pointer ' ><Link to={"/contactme"}>Contact Me  </Link> </li>
+        <li className='hover:transform hover:scale-110   cursor-pointer ' ><Link to={"/reactfirstapp/about-us"}>About </Link></li>
+        <li className='hover:transform hover:scale-110   cursor-pointer ' ><Link to={"/reactfirstapp/resume"}>Resume </Link></li>
+        <li className='hover:transform hover:scale-110   cursor-pointer ' ><Link to={"/reactfirstapp/portfolio"}>Portfolio </Link></li>
+        <li className='hover:transform hover:scale-110   cursor-pointer ' ><Link to={"/reactfirstapp/contactme"}>Contact Me  </Link> </li>
       </ul>
       </div>
       <div className='flex items-center justify-end w-full lg:w-3/12 fixed top-0 right-0 h-16 no-scrollbar '>
