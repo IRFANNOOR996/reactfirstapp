@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactfirstapp/static/css/main.3cc7fb52.css",
-    "main.js": "/reactfirstapp/static/js/main.ddece4df.js",
+    "main.js": "/reactfirstapp/static/js/main.a3b44dae.js",
     "static/js/453.64fca6d5.chunk.js": "/reactfirstapp/static/js/453.64fca6d5.chunk.js",
     "static/media/user.png": "/reactfirstapp/static/media/user.50093ceaef09f2c92cb5.png",
     "static/media/resume.jpg": "/reactfirstapp/static/media/resume.80d381099235f8b10706.jpg",
@@ -14,11 +14,11 @@
     "static/media/portfolio-1.jpg": "/reactfirstapp/static/media/portfolio-1.7eb2793f5090d5ac12a5.jpg",
     "index.html": "/reactfirstapp/index.html",
     "main.3cc7fb52.css.map": "/reactfirstapp/static/css/main.3cc7fb52.css.map",
-    "main.ddece4df.js.map": "/reactfirstapp/static/js/main.ddece4df.js.map",
+    "main.a3b44dae.js.map": "/reactfirstapp/static/js/main.a3b44dae.js.map",
     "453.64fca6d5.chunk.js.map": "/reactfirstapp/static/js/453.64fca6d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cc7fb52.css",
-    "static/js/main.ddece4df.js"
+    "static/js/main.a3b44dae.js"
   ]
 }
